@@ -1,0 +1,15 @@
+1,S,ab
+1,M,ab
+1,M,ok
+1,S,ok
+1,S,ab
+2,S,ab
+2,M,ab
+2,M,ok
+2,L,ok
+2,L,ok
+3,L,ok
+3,M,ok
+3,M,ok
+3,L,ok
+3,L,ab
