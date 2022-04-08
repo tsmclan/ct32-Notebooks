@@ -16,3 +16,7 @@
 * 李航《统计学习方法》[Python 代码更新，适应第二版！](https://zhuanlan.zhihu.com/p/75145043)
 
 * Machine learning algorithms [implemented by pure numpy](https://github.com/carefree0910/MachineLearning), and A simplified (and more elegant) [version](https://github.com/carefree0910/carefree-ml)
+
+* [How to Execute Jupyter Notebooks from GitHub](https://soshnikov.com/education/how-to-execute-notebooks-from-github/)
+
+In [Zero-to-Binder — The Turing Way](https://the-turing-way.netlify.app/communication/binder/zero-to-binder.html), we will create a Binder project from scratch: we will first make a public repository of Jupyter Notebooks on GitHub and then launch them on [mybinder.org](http://mybinder.org/).
