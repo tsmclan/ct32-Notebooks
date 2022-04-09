@@ -1,0 +1,10 @@
+# files excluded
+Thumbs.db
+.DS_Store
+$RECYCLE*
+*.lnk
+~*
+*.db-shm
+
+# directories excluded
+
