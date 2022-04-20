@@ -1,17 +1,6 @@
 # Jupyter Notebooks for Course Computational Thinking (ct32-Notebooks)
 
-<p>
-<ul id="breadcrumb">
-<li><a href="/img/cal.jpg"><span class="icon icon-home"> </span> &nbsp;</a></li>
-<li><a target="_blank" href="/tching/pt32/calendar2022s.jpeg"><span class="icon icon-calendar"></span> 校历</a></li>
-<li><a href="#kcnr"><span class="icon icon-beaker"> </span> 课程内容</a></li>
-<li><a href="#gzls"><span class="icon icon-legal"></span> 工作历史</a></li>
-<li><a href="#topics"><span class="icon icon-group"> </span> 讨论题目</a></li>
-<li><a href="#ckzl"><span class="icon icon-cloud"> </span> 参考资料</a></li>
-<li><a href="#kcls"><span class="icon icon-rocket"> </span> 课程历史</a></li>
-</ul></p>
-<p><br>
-
+<a target="_blank" href="https://www.jdoodle.com/execute-haskell-online/"><img src="./images/jdoodle.png" alt="jdoodle" /></a>
 
 
 
