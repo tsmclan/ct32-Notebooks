@@ -2,6 +2,7 @@
 
 <a target="_blank" href="https://www.jdoodle.com/execute-haskell-online/"><img src="./images/jdoodle.png" alt="jdoodle" /></a>
 
+[jdoogle](images/jdoodle.png)
 
 
 # 参考
