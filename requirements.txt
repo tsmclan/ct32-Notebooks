@@ -9,5 +9,5 @@ pytz==2019.2
 entrypoints==0.4
 jsonschema==4.4.0
 toolz==0.7.0
-vega_datasets
 altair
+vega_datasets
