@@ -8,3 +8,5 @@ $RECYCLE*
 
 # directories excluded
 .ipynb_checkpoints/
+.virtual_documents/
+.idea/
